@@ -1,0 +1,8 @@
+tuple=(11,22,33,44,55,66,77,88,99,100)
+print(tuple)
+print(type(tuple))
+print("---------------------")
+print("slicing of tuple")
+print(tuple[:4])
+print(tuple[4:])
+print(tuple[2:6:2])
